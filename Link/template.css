@@ -19,8 +19,8 @@
 .row{
 		display: flex;
 		flex-wrap: wrap;
-		margin-left:-15px;/*sir comment-margin left and right -15px use pannanaum*/
-		margin-right:-15px;/*sir comment-margin left and right -15px use pannanaum*/
+		margin-left:-15px;
+		margin-right:-15px;
 		
 }
 .row>*{
@@ -183,7 +183,7 @@ h1.logo > a{
 	color:#00bcd4;
 }
 .nav-link a.active{
-	color:red;
+	color:#00bcd4;
 }
 /*==============Navigation section end-=========*/
 /*==============banner section start-=========*/
